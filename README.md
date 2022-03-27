@@ -7,3 +7,4 @@ For the 2 files createBytes.js and parseBytes.js, they are used respectivelly to
 
 
  
+![transact](https://user-images.githubusercontent.com/49540704/160293482-dc6f264e-bb5e-4229-92df-aed118869e20.PNG)
